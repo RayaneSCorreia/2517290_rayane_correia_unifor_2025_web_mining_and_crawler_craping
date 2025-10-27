@@ -66,3 +66,8 @@ pip install -r requirements.txt
 ---
 
 💡 *Este repositório segue a arquitetura de camadas típica de pipelines de dados modernos (inspirada no conceito Medallion do Databricks).*  
+
+
+👩‍💻 Autora
+
+Rayane Correia — Analytics Engineer | Pós-graduação em Engenharia de Dados – UNIFOR
